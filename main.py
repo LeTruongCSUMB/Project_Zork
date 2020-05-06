@@ -1,7 +1,8 @@
-eventNumber = 1					# The event loop
-playerAlive = True				# Check if the player is alive
-playerInventory = []			# List of the player's inventory
-
+eventNumber = 1												# The event loop
+playerAlive = True											# Check if the player is alive
+playerInventory = []										# List of the player's inventory
+eventCheck = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]		# Event checks booleans
+#			  0  1  2  3  4  5  6  7  8  9  10 11 12 13
 print("---------------------------------------------")
 print("Welcome to Zronk - A Zork-like text base game.")
 print("By Lewis Truong, Andrew Mei, Alexis Sanchez, ")
