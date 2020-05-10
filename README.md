@@ -1,5 +1,7 @@
 # Zork Game
 
+![](https://github.com/LeTruongCSUMB/Project_Zork/blob/setsuka/images/Untitled.png)
+
 This is a text adventure game, similar to the choose your own adventure Zork books. The user can input actions and directions to take decisions.
 The story takes place on a ship, where the main hero must escape.  
 
