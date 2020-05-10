@@ -35,7 +35,9 @@ Run main.py
 python3 main.py
 ```
 
-
+<video width="320" height="200" controls preload> 
+    <source src="zork_demo.webm"></source> 
+</video>
 
 
 ## Built With
